@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Health Care Platforms",
+    "desc": "I specialize in healthcare software, crafting key screens to streamline processes and improve efficiency. My focus is on user-friendly interfaces that enhance patient care through technology.",
+    "image": "syn",
+    "category": "mern"
+  },
+  {
+    "name": "Data Dribble",
+    "desc": "Data Dribble is the ultimate solution for businesses that need to extract, store and manage data from social media and digital marketing platforms",
+    "image": "dataA",
+    "category": "mern"
+  },
+  {
+    "name": "Impo Expo",
+    "desc": "ImpoExpo by Nooblers is the ultimate solution for shipping companies looking to streamline and automate their import and export processes.",
+    "image": "im",
+    "category": "mern"
+  },
+  {
+    "name": "Auth 0",
+    "desc": "Auth0 is a cloud-based authentication and authorization platform.",
+    "image": "Auth0",
+    "category": "mern"
+  },
+  {
+    "name": "Tic-Tac-Toe Game",
+    "desc": "Tic-Tac-Toe is an online game with a grid featuring multiple options.",
+    "image": "tic",
+    "category": "ReactJS"
+  },
+  {
+    "name": "Nooblers Website",
+    "desc": "This website is specially built to showcase Nooblers.",
+    "image": "noob",
+    "category": "ReactJS"
+  }
+]
